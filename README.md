@@ -329,12 +329,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 
 ## Output screen shots of serial port utility   :
- ![output ](https://github.com/user-attachments/assets/51fc794a-1fc0-4180-b002-60dd78b553cc)
+ 
+<img width="1591" height="886" alt="image" src="https://github.com/user-attachments/assets/33520cd8-db31-4d74-acfb-4b623318acce" />
 
  
  ## Circuit board :
  
-![1](https://github.com/user-attachments/assets/09f3b0e0-ab43-43f4-a8ac-79575dcf09e4)
+
 
 
  
